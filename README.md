@@ -1,0 +1,2 @@
+# magicalshrooms
+Shroomy Detection
